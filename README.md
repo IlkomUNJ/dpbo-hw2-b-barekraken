@@ -28,6 +28,6 @@ AI Tools: Gemini and Copilot github
 
 Paid AI Plugin (state none, if not subscribed): None
 
-Total Prompts used (int estimate): 23
+Total Prompts used (int estimate): 62
 
 Dominant prompt used for (seek solution / implement ideas) : Making structure for the file
